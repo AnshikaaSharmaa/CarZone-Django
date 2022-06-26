@@ -43,16 +43,8 @@ cd project name
 ```sh
 python manage.py runserver
 ```
-## Development:
-> Looking Forward To Contributing ? 
-> Send In A Pull Request 
-> You Will Hear From Us Soon : )
 
 
-## Contributors:
-1. Anurag Pandey 
-2. Sarthak Sharma Naik  
-3. Stallone Fernandes 
 
-> Feel Free To Reach Out To Us On Our Socials 
+
 
