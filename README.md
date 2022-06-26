@@ -1,4 +1,4 @@
-# CarZone Refurbished Cars 
+# CarZone: Selling and Reselling Cars 
 Powered By Django 
 ## Features:
 - Uses Django 
